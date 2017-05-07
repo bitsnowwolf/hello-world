@@ -5,3 +5,4 @@ It's just a test. For how to use github. About how to create branch,how to write
 
 Creating new branch is quickly and simple.
 merge with no fast forword
+test stash...
